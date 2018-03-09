@@ -22,6 +22,9 @@ dist
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/workspace.xml
+.idea/watcherTasks.xml
+.idea/codeStyles/Project.xml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
